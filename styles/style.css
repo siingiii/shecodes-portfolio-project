@@ -4,3 +4,13 @@ h1 {
   font-weight: 700;
   font-style: normal;
 }
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
+.bg-warning {
+  background-color: #ffc107;
+}
+.d-flex {
+  display: flex;
+}
