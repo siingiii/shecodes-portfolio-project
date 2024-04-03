@@ -25,8 +25,8 @@ h1 {
 h2 {
   font-size: 64px;
 }
-h4 {
-  font-size: 48px;
+h3 {
+  font-size: 40px;
 }
 p {
   font-family: var(--default-font-family);
@@ -148,6 +148,9 @@ footer .social-links a:hover {
   }
   h2 {
     font-size: 44px;
+  }
+  h3 {
+    font-size: 30px;
   }
   .hero {
     padding: 80px 20px;
