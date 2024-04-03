@@ -60,8 +60,6 @@ p {
 .content h3 {
   font-size: 24px;
   font-family: var(--default-font-family);
-  line-height: 1.5;
-  margin: 20px 0 0;
 }
 .content-container {
   padding: 120px 20px;
@@ -90,6 +88,11 @@ p {
 }
 .project-description {
   padding: 120px 50px;
+}
+.logo {
+  max-width: 150px;
+}
+
 }
 @media (max-width: 960px) {
   h1 {
